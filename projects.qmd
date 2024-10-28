@@ -1,0 +1,10 @@
+---
+format: html
+title: "MyProjects"
+---
+
+# This is a page for my projects
+
+::: {#highlight .text}
+First Project: Bone cancer image detection
+:::

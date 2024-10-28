@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "narsamrohitsai.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: projects.qmd
+        text: Projects
+    right: 
+      - href: https://www.linkedin.com/in/rohitsai-narsam-655ba0209/
+        text: Linkedin
+        icon: linkedin
+        
+
+format:
+  html:
+    theme: lumen
+    css: styles.css
+    toc: true
+
+editor: visual
+
