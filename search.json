@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "MyProjects",
+    "section": "",
+    "text": "This is a page for my projects\n\nFirst Project: Bone cancer image\n&lt;i class=\"bi bi-linkedin\"&gt;&lt;/i&gt;\ndetection"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This page is for writing something about me!"
+  }
+]
